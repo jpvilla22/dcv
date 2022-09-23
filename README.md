@@ -1,5 +1,5 @@
-# resume_app
+# DCV - Django CV
 
-Hi there.
-This is the a Django app that helps you to digitize your resume.
-With any luck, you will stand out in a round and land your dream job
+Esto es un fork de bobby-didcoding/resume_app pensado para poder publicar un CV de forma autogestiva, dentro del servicio Azure Web Apps
+
+Como primera diferencia con el proyecto original, se incluye un Dockerfile para poder meter en un contenedor el proyecto
